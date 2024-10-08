@@ -69,39 +69,51 @@ me.say_hi()
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/46/f2/1d46f26c-c186-ee9f-024a-cca01a2dd6b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60"> | Secrets Unfold | The Best Drinking Game | [View on App Store](https://apps.apple.com/tr/app/secrets-unfold/id6496849051) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/82/7e/53827e16-ed5f-daf0-0170-7e9cd182709d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="60" height="60"> | Word Memorizer | Just for me to learn italian | [View on App Store](https://apps.apple.com/tr/app/word-memorizer/id6450652988) |
 
-### Projects in Development
+## 🚀 Projects in Development
 
-I'm currently working on three exciting new projects:
+<div align="center">
 
-1. **DiaSync**
-   
-   <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(2).png" alt="DiaSync App Icon" width="60" height="60" style="border-radius: 16px;">
-   
-   *An AI-powered application for diabetes management*
-   
-   DiaSync is designed to revolutionize diabetes care by leveraging artificial intelligence to provide personalized support and insights for individuals managing diabetes.
+### 🩺 DiaSync
+<img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(2).png" alt="DiaSync App Icon" width="80" height="80" style="border-radius: 16px;">
 
-2. **Dreamy Whispers**
-   
-   <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(1).png" alt="Dreamy Whispers App Icon" width="60" height="60">
-   
-   *A soothing white noise application for better sleep and relaxation*
-   
-   Dreamy Whispers offers a curated collection of white noise and ambient sounds to help users relax, focus, and achieve better sleep quality.
+*Revolutionizing diabetes care with AI-powered insights*
 
-3. **Dengg**
-   
-   <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo.png" alt="Dengg App Icon" width="60" height="60">
-   
-   *An AI-powered spiritual education and therapy platform*
-   
-   Dengg is an innovative platform that combines spiritual education with AI-driven voice therapy, offering users a unique and personalized approach to spiritual growth and well-being.
-
-Stay tuned for updates on these upcoming applications! 
+DiaSync leverages cutting-edge artificial intelligence to provide personalized support and actionable insights for individuals managing diabetes, making their journey smoother and more empowering.
 
 ---
 
-💡 **Fun Fact:** Did you know that the average smartphone user has 80 apps installed on their phone, but regularly uses only 9 of them? I'm working hard to make sure my apps are among those 9!
+### 🧘 Dengg
+<img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo.png" alt="Dengg App Icon" width="80" height="80" style="border-radius: 16px;">
+
+*Your AI-powered spiritual companion*
+
+Dengg seamlessly blends spiritual education with AI-driven voice therapy, offering a unique and personalized approach to spiritual growth and holistic well-being.
+
+---
+
+### 🧠 MentAI
+<img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/mentai%20(1080%20x%201350%20piksel).png" alt="MentAI App Icon" width="80" height="100" style="border-radius: 16px;">
+
+*Your personalized AI life coach*
+
+MentAI creates a bespoke AI assistant tailored to your unique path and aspirations. It's your personal life coach, equipped with comprehensive tools to help you craft and achieve your ideal life trajectory.
+
+---
+
+### 🌙 Dreamy Whispers
+<img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(1).png" alt="Dreamy Whispers App Icon" width="80" height="80" style="border-radius: 16px;">
+
+*Whisper your way to tranquility*
+
+Dreamy Whispers offers a curated symphony of soothing white noise and ambient sounds, designed to help you relax, focus, and drift into the most restful sleep of your life.
+
+</div>
+
+---
+
+<p align="center"><i>Stay tuned for these upcoming digital marvels! Each one is crafted with passion and innovation to enhance different aspects of your life.</i></p>
+
+<p align="center">💡 <b>Fun Fact:</b> While the average smartphone has 80 apps installed, users typically engage with only 9 regularly. Our mission? To create apps so indispensable, they'll always be among your essential 9!</p>
 ## 📫 Get in Touch
 
 Feel free to reach out if you want to collaborate on a project, discuss data analysis, or just have a chat!
