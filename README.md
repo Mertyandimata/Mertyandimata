@@ -66,8 +66,8 @@ me.say_hi()
 | App Icon | App Name | Description | App Store Link |
 |----------|----------|-------------|----------------|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/25/d8/bc25d8a2-9a4a-d925-11e3-78a972c3d4b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60"> | Coinquilino | Find a Roommate | [View on App Store](https://apps.apple.com/tr/app/coinquilino-find-a-roommate/id6450541028) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/46/f2/1d46f26c-c186-ee9f-024a-cca01a2dd6b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60"> | Secrets Unfold | - | [View on App Store](https://apps.apple.com/tr/app/secrets-unfold/id6496849051) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/82/7e/53827e16-ed5f-daf0-0170-7e9cd182709d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="60" height="60"> | Word Memorizer | - | [View on App Store](https://apps.apple.com/tr/app/word-memorizer/id6450652988) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/46/f2/1d46f26c-c186-ee9f-024a-cca01a2dd6b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60"> | Secrets Unfold | The Best Drinking Game | [View on App Store](https://apps.apple.com/tr/app/secrets-unfold/id6496849051) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/82/7e/53827e16-ed5f-daf0-0170-7e9cd182709d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="60" height="60"> | Word Memorizer | Just for me to learn italian | [View on App Store](https://apps.apple.com/tr/app/word-memorizer/id6450652988) |
 
 ### Projects in Development
 
