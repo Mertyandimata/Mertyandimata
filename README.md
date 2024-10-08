@@ -43,9 +43,20 @@ mert.decode_challenge()
 <div align="center">
 
 
-💼 Work Experience
-CompanyPositionDurationTypeLocationSkills<img src="https://www.dabpumps.com.au/contacts" width="60" height="60" style="border-radius: 10px;"><br>DAB PumpsProduction Data AnalystAug 2023 - Present<br>(1 yr 3 mos)Full-timeItaly (Hybrid)Data Science, Machine Learning, +4 skills<img src="https://www.dabpumps.com.au/contacts" width="60" height="60" style="border-radius: 10px;"><br>DAB PumpsProcess Engineering SpecialistJan 2023 - Aug 2023<br>(8 mos)InternshipItaly (Hybrid)Excel VBA, SQL, +3 skills<img src="https://www.dabpumps.com.au/contacts" width="60" height="60" style="border-radius: 10px;"><br>DAB PumpsContinuous Improvement SpecialistAug 2022 - Jan 2023<br>(6 mos)InternshipItaly (Hybrid)Agile Methodologies, Scrum, +2 skills<img src="https://endustriyel.dyo.com.tr/uploads/2020/06/dyo.jpg" width="60" height="60" style="border-radius: 10px;"><br>DYOIndustrial EngineerSep 2019 - Jul 2020<br>(11 mos)Part-timeTurkeyMicrosoft Excel, C#, +3 skills<img src="https://media.licdn.com/dms/image/v2/D560BAQEtLDACgjU-pw/company-logo_200_200/company-logo_200_200/0/1698738688069/aselsan_logo?e=1736380800&v=beta&t=b_vEAWg5c2AhNcRFWRQNrWFOBnjqjEGusGTCC3-nQNM" width="60" height="60" style="border-radius: 10px;"><br>AselsanSoftware EngineerJun 2019 - Aug 2019<br>(3 mos)InternshipTurkeyC#<img src="https://media.licdn.com/dms/image/v2/D4D0BAQHmklobxjehlA/company-logo_100_100/company-logo_100_100/0/1699872523052/yasaruniversitesi_logo?e=1736380800&v=beta&t=oWWqnRES-G3aoK1GuJPdNJkt7ZTX7VE4q2BA6wna68I" width="60" height="60" style="border-radius: 10px;"><br>Yaşar ÜniversitesiStudent AssistantSep 2018 - Feb 2019<br>(6 mos)Part-timeIzmir, TurkeyJava, Excel VBA, +1 skill
-📱 My App Portfolio
+## 💼 Work Experience
+
+<div align="center">
+
+| Company | Position | Duration | Type | Location | Skills |
+|:-------:|:--------:|:--------:|:----:|:--------:|:------:|
+| <img src="https://www.dabpumps.com.au/contacts" width="60" height="60" style="border-radius: 13px;"><br>**DAB Pumps** | Production Data Analyst | Aug 2023 - Present<br>(1 yr 3 mos) | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
+| <img src="https://www.dabpumps.com.au/contacts" width="60" height="60" style="border-radius: 13px;"><br>**DAB Pumps** | Process Engineering Specialist | Jan 2023 - Aug 2023<br>(8 mos) | Internship | Italy | Excel VBA, SQL, +3 skills |
+| <img src="https://www.dabpumps.com.au/contacts" width="60" height="60" style="border-radius: 13px;"><br>**DAB Pumps** | Continuous Improvement Specialist | Aug 2022 - Jan 2023<br>(6 mos) | Internship | Italy (Hybrid) | Agile Methodologies, Scrum, +2 skills |
+| <img src="https://endustriyel.dyo.com.tr/uploads/2020/06/dyo.jpg" width="60" height="60" style="border-radius: 13px;"><br>**DYO** | Industrial Engineer | Sep 2019 - Jul 2020<br>(11 mos) | Internship | Turkey | Microsoft Excel, C#, +3 skills |
+| <img src="https://media.licdn.com/dms/image/v2/D560BAQEtLDACgjU-pw/company-logo_200_200/company-logo_200_200/0/1698738688069/aselsan_logo?e=1736380800&v=beta&t=b_vEAWg5c2AhNcRFWRQNrWFOBnjqjEGusGTCC3-nQNM" width="60" height="60" style="border-radius: 13px;"><br>**Aselsan** | Software Engineer | Jun 2019 - Aug 2019<br>(3 mos) | Internship | Turkey | C# |
+| <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHmklobxjehlA/company-logo_100_100/company-logo_100_100/0/1699872523052/yasaruniversitesi_logo?e=1736380800&v=beta&t=oWWqnRES-G3aoK1GuJPdNJkt7ZTX7VE4q2BA6wna68I" width="60" height="60" style="border-radius: 13px;"><br>**Yaşar Üniversitesi** | Student Assistant | Sep 2018 - Feb 2019<br>(6 mos) | Part-time | Izmir, Turkey | Java, Excel VBA, +1 skill |
+
+</div>
 
 ## 📱 My App Portfolio
 
