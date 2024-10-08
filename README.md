@@ -53,20 +53,6 @@ mert.decode_challenge()
 | Yaşar Üniversitesi | Student Assistant | Sep 2018 - Feb 2019<br>(6 mos) | Part-time | Izmir, Turkey | Java, Excel VBA, +1 skill |
 
 
-
-## 🎓 Education
-
-| Degree | Institution | Year | Humorous Note |
-|--------|-------------|------|---------------|
-| Master's in Management Engineering | Università degli Studi di Padova | 2021-2024 | Still trying to manage my sleep schedule |
-| Bachelor's in Industrial Engineering | Yaşar University | 2015-2020 | Learned how to optimize everything except my study habits |
-| Bachelor's in Software Engineering (ICT) | Yaşar University | 2017-2021 | Debugged code more often than my life choices |
-| Minor in Psychology | Yaşar University | 2018-2021 | Couldn't psychoanalyze my way out of another degree |
-| PhD | TBD | 20??-???? | Error 404: Motivation Not Found |
-
-*Note: The PhD entry is purely for comedic purposes. As the table suggests, I'm currently taking a break from formal education to focus on professional growth and maintaining my sanity.*
-
-## 📱 Projects and Applications
 ## 📱 My App Portfolio
 
 ### Published Apps
@@ -97,6 +83,19 @@ mert.decode_challenge()
 <p align="center"><i>Stay tuned for these upcoming digital marvels! Each crafted with passion to enhance different aspects of your life.</i></p>
 
 <p align="center">💡 <b>Fun Fact:</b> The average smartphone has 80 apps, but users regularly use only 9. Our goal? To create apps so essential, they'll always be in your top 9!</p>
+
+## 🎓 Education
+
+| Degree | Institution | Year | Humorous Note |
+|--------|-------------|------|---------------|
+| Master's in Management Engineering | Università degli Studi di Padova | 2021-2024 | Still trying to manage my sleep schedule |
+| Bachelor's in Industrial Engineering | Yaşar University | 2015-2020 | Learned how to optimize everything except my study habits |
+| Bachelor's in Software Engineering (ICT) | Yaşar University | 2017-2021 | Debugged code more often than my life choices |
+| Minor in Psychology | Yaşar University | 2018-2021 | Couldn't psychoanalyze my way out of another degree |
+| PhD | TBD | 20??-???? | Error 404: Motivation Not Found |
+
+*Note: The PhD entry is purely for comedic purposes. As the table suggests, I'm currently taking a break from formal education to focus on professional growth and maintaining my sanity.*
+
 ## 📫 Get in Touch
 
 Feel free to reach out if you want to collaborate on a project, discuss data analysis, or just have a chat!
