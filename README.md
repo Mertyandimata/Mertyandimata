@@ -26,7 +26,7 @@ class DataAnalystAndDeveloper:
         print(f"🗝️ Decryption Key: {self.decryption_key}")
         print("Crack it open and let's connect! 🚀")
 
-# Let's begin the decryption journey!
+# Think also numbers ...
 mert = DataAnalystAndDeveloper()
 mert.decode_challenge()
 ```
