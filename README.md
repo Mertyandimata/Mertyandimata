@@ -60,13 +60,35 @@ As part of a team, I developed a decision support system for production planning
 
 *Note: The PhD entry is purely for comedic purposes. As the table suggests, I'm currently taking a break from formal education to focus on professional growth and maintaining my sanity.*
 
-## 📱 Mobile Applications
+## 📱 Projects and Applications
 
-<p align="center">
-  <a href="https://apps.apple.com/us/app/your-app1"><img src="/api/placeholder/100/100" alt="App 1" width="100" height="100" /></a>
-  <a href="https://apps.apple.com/us/app/your-app2"><img src="/api/placeholder/100/100" alt="App 2" width="100" height="100" /></a>
-  <a href="https://apps.apple.com/us/app/your-app3"><img src="/api/placeholder/100/100" alt="App 3" width="100" height="100" /></a>
-</p>
+### Published Apps
+
+| App Icon | App Name | Description | App Store Link |
+|----------|----------|-------------|----------------|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/25/d8/bc25d8a2-9a4a-d925-11e3-78a972c3d4b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60"> | Coinquilino | Find a Roommate | [View on App Store](https://apps.apple.com/tr/app/coinquilino-find-a-roommate/id6450541028) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/46/f2/1d46f26c-c186-ee9f-024a-cca01a2dd6b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60"> | Secrets Unfold | - | [View on App Store](https://apps.apple.com/tr/app/secrets-unfold/id6496849051) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/82/7e/53827e16-ed5f-daf0-0170-7e9cd182709d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="60" height="60"> | Word Memorizer | - | [View on App Store](https://apps.apple.com/tr/app/word-memorizer/id6450652988) |
+
+### Projects in Development
+
+I'm currently working on two exciting new projects:
+
+1. **DiaSync**
+   <img src="/api/placeholder/100/100" alt="DiaSync App Icon" width="60" height="60">
+   
+   *Coming soon to the App Store*
+
+2. **[Project Name]**
+   <img src="/api/placeholder/100/100" alt="Project App Icon" width="60" height="60">
+   
+   *In development*
+
+Stay tuned for updates on these upcoming applications!
+
+---
+
+💡 **Fun Fact:** Did you know that the average smartphone user has 80 apps installed on their phone, but regularly uses only 9 of them? I'm working hard to make sure my apps are among those 9!
 
 ## 📫 Get in Touch
 
