@@ -71,24 +71,37 @@ me.say_hi()
 
 ### Projects in Development
 
-I'm currently working on two exciting new projects:
+I'm currently working on three exciting new projects:
 
 1. **DiaSync**
-   <img src="/api/placeholder/100/100" alt="DiaSync App Icon" width="60" height="60">
    
-   *Coming soon to the App Store*
+   <img src="https://raw.githubusercontent.com/Mertyandimata/diabetappnew/main/assets/logo.png" alt="DiaSync App Icon" width="60" height="60" style="border-radius: 16px;">
+   
+   *An AI-powered application for diabetes management*
+   
+   DiaSync is designed to revolutionize diabetes care by leveraging artificial intelligence to provide personalized support and insights for individuals managing diabetes.
 
-2. **[Project Name]**
-   <img src="/api/placeholder/100/100" alt="Project App Icon" width="60" height="60">
+2. **Dreamy Whispers**
    
-   *In development*
+   <img src="https://raw.githubusercontent.com/Mertyandimata/dreamywhispercode/main/assets/logo.png" alt="Dreamy Whispers App Icon" width="60" height="60">
+   
+   *A soothing white noise application for better sleep and relaxation*
+   
+   Dreamy Whispers offers a curated collection of white noise and ambient sounds to help users relax, focus, and achieve better sleep quality.
+
+3. **Dengg**
+   
+   <img src="https://raw.githubusercontent.com/Mertyandimata/dengg/main/assets/logo.png" alt="Dengg App Icon" width="60" height="60">
+   
+   *An AI-powered spiritual education and therapy platform*
+   
+   Dengg is an innovative platform that combines spiritual education with AI-driven voice therapy, offering users a unique and personalized approach to spiritual growth and well-being.
 
 Stay tuned for updates on these upcoming applications!
 
 ---
 
 💡 **Fun Fact:** Did you know that the average smartphone user has 80 apps installed on their phone, but regularly uses only 9 of them? I'm working hard to make sure my apps are among those 9!
-
 ## 📫 Get in Touch
 
 Feel free to reach out if you want to collaborate on a project, discuss data analysis, or just have a chat!
