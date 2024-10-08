@@ -39,10 +39,10 @@ me.say_hi()
 | Company | Position | Duration | Type | Location | Skills |
 |:--------|:---------|:---------|:-----|:---------|:-------|
 | DAB Pumps | Production Data Analyst | Aug 2023 - Present<br>(1 yr 3 mos) | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
-| DAB Pumps | Process Engineering Specialist | Jan 2023 - Aug 2023<br>(8 mos) | Internship | Italy | Microsoft Excel, SQL, +3 skills |
+| DAB Pumps | Process Engineering Specialist | Jan 2023 - Aug 2023<br>(8 mos) | Internship | Italy (Hybrid) | Microsoft Excel, SQL, +3 skills |
 | DAB Pumps | Continuous Improvement Specialist | Aug 2022 - Jan 2023<br>(6 mos) | Internship | Italy (Hybrid) | Agile Methodologies, Scrum, +2 skills |
-| DYO | Industrial Engineer | Sep 2019 - Jul 2020<br>(11 mos) | Internship | - | Microsoft Excel, C#, +3 skills |
-| Aselsan | Software Engineer | Jun 2019 - Aug 2019<br>(3 mos) | Internship | - | C# |
+| DYO | Industrial Engineer | Sep 2019 - Jul 2020<br>(11 mos) | Part-time | Turkey | Microsoft Excel, C#, +3 skills |
+| Aselsan | Software Engineer | Jun 2019 - Aug 2019<br>(3 mos) | Internship | Turkey | C# |
 | Yaşar Üniversitesi | Student Assistant | Sep 2018 - Feb 2019<br>(6 mos) | Part-time | Izmir, Turkey | Java, Excel VBA, +1 skill |
 
 ### 🏭 DYO Project Details
@@ -50,12 +50,15 @@ As part of a team, I developed a decision support system for production planning
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| Master's in Management Engineering | Università degli Studi di Padova | 2021-2024 |
-| Bachelor's in Industrial Engineering | Yaşar University | 2015-2020 |
-| Bachelor's in Software Engineering (ICT) | Yaşar University | 2017-2021 |
-| Minor in Psychology | Yaşar University | 2018-2021 |
+| Degree | Institution | Year | Humorous Note |
+|--------|-------------|------|---------------|
+| Master's in Management Engineering | Università degli Studi di Padova | 2021-2024 | Still trying to manage my sleep schedule |
+| Bachelor's in Industrial Engineering | Yaşar University | 2015-2020 | Learned how to optimize everything except my study habits |
+| Bachelor's in Software Engineering (ICT) | Yaşar University | 2017-2021 | Debugged code more often than my life choices |
+| Minor in Psychology | Yaşar University | 2018-2021 | Couldn't psychoanalyze my way out of another degree |
+| PhD | TBD | 20??-???? | Error 404: Motivation Not Found |
+
+*Note: The PhD entry is purely for comedic purposes. As the table suggests, I'm currently taking a break from formal education to focus on professional growth and maintaining my sanity.*
 
 ## 📱 Mobile Applications
 
