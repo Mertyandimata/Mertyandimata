@@ -36,12 +36,65 @@ me.say_hi()
 
 ## 💼 Professional Experience
 
-| Position | Company | Duration |
-|----------|---------|----------|
-| Production Data Analyst | DAB Pumps | Aug 2023 - Present |
-| Process Engineering Specialist | DAB Pumps | Jan 2023 - Aug 2023 |
-| Continuous Improvement Specialist | DAB Pumps | Aug 2022 - Jan 2023 |
+<details>
+<summary><b>DAB Pumps</b> (2 years 3 months)</summary>
 
+### Production Data Analyst
+<img src="https://img.shields.io/badge/Full--time-August%202023%20to%20Present-brightgreen" />
+<img src="https://img.shields.io/badge/Location-Italy%20(Hybrid)-blue" />
+
+**Skills:** Data Science, Machine Learning, +4 skills
+
+### Process Engineering Specialist
+<img src="https://img.shields.io/badge/Internship-January%202023%20to%20August%202023-yellow" />
+<img src="https://img.shields.io/badge/Location-Italy-blue" />
+
+**Skills:** Microsoft Excel, SQL, +3 skills
+
+### Continuous Improvement Specialist
+<img src="https://img.shields.io/badge/Internship-August%202022%20to%20January%202023-yellow" />
+<img src="https://img.shields.io/badge/Location-Italy%20(Hybrid)-blue" />
+
+**Skills:** Agile Methodologies, Scrum, +2 skills
+
+</details>
+
+<details>
+<summary><b>DYO</b> (11 months)</summary>
+
+### Industrial Engineer
+<img src="https://img.shields.io/badge/Internship-September%202019%20to%20July%202020-orange" />
+
+**Project:** Decision Support System for Production Planning
+- Developed using Excel VBA, Java, and Arena Simulation
+- Incorporated stochastic elements like machine breakdowns
+- Responsible for implementing Excel VBA and Java components
+- Ensured accuracy and effectiveness in production planning decisions
+
+**Skills:** Microsoft Excel, C#, +3 skills
+
+</details>
+
+<details>
+<summary><b>Aselsan</b> (3 months)</summary>
+
+### Software Engineer
+<img src="https://img.shields.io/badge/Internship-June%202019%20to%20August%202019-orange" />
+
+**Skills:** C#
+
+</details>
+
+<details>
+<summary><b>Yaşar Üniversitesi</b> (6 months)</summary>
+
+### Student Assistant
+<img src="https://img.shields.io/badge/Part--time-September%202018%20to%20February%202019-lightgrey" />
+<img src="https://img.shields.io/badge/Location-Izmir,%20Turkey-blue" />
+
+**Skills:** Java, Excel VBA, +1 skill
+
+</details>
 ## 🎓 Education
 
 | Degree | Institution | Year |
