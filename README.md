@@ -9,19 +9,26 @@
 I'm a Data Analyst and Mobile App Developer, currently working as a Production Data Analyst at DAB Pumps. With a strong background in Industrial Engineering and Software Development, I'm passionate about leveraging data to drive insights and creating innovative mobile applications.
 
 ```python
-class DataAnalystAndAppDeveloper:
+class DataAnalystAndDeveloper:
     def __init__(self):
         self.name = "Mert Yandımata"
         self.roles = ["Data Analyst", "Mobile App Developer"]
         self.languages = ["tr_TR", "en_US", "it_IT"]
-        self.current_work = "Production Data Analyst at DAB Pumps"
+        self.current_position = "Production Data Analyst at DAB Pumps"
         self.education = "Master's in Management Engineering, Università degli Studi di Padova"
-    
-    def say_hi(self):
-        print("Welcome to my profile! Let's explore data and create amazing apps!")
+        self.encrypted_message = "L fdq'w eholhyh brx dfwxdoob udq wklv, exw li L zhuh brx, L'g kdyh fudfnhg lw wrr! Li brx'uh lqwhuhvwhg lq glvfxvvlqj d surmhfw, ihho iuhh wr frqwdfw ph dw +626134789090. Zdlwlqj iru brxu phvvdjh!"
+        self.decryption_key = "Hint: Think of Caesar's favorite number 😉"
 
-me = DataAnalystAndAppDeveloper()
-me.say_hi()
+    def decode_challenge(self):
+        print("Nice! You've found the hidden message! 🔍")
+        print("Ready to give it a shot? 🧠")
+        print(f"🔒 Encrypted Message: {self.encrypted_message}")
+        print(f"🗝️ Decryption Key: {self.decryption_key}")
+        print("Crack it open and let's connect! 🚀")
+
+# Let's begin the decryption journey!
+mert = DataAnalystAndDeveloper()
+mert.decode_challenge()
 ```
 
 ## 🚀 Skills & Technologies
