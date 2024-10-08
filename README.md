@@ -1,92 +1,113 @@
 <h1 align="center">
-  Merhaba, Ben Mert Yandımata 👋
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mert+Yandımata's+Profile;Data+Analyst+%7C+Software+Engineer+%7C+App+Developer&center=true&size=20">
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mert-yandimata/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/myandimata/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="mailto:myandimata4@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Mobile+App+Developer;Continuous+Learner&center=true&width=500&height=50">
-</p>
+<pre align="center">
+  <code>
+  1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+  0 ________  ___  _____ ______   ________  ________  ___       1
+  1 |\   ___ \|\  \|\   _ \  _   \|\   __  \|\   __  \|\  \      0
+  0 \ \  \_|\ \ \  \ \  \\\__\ \  \ \  \|\  \ \  \|\  \ \  \     1
+  1  \ \  \ \\ \ \  \ \  \\|__| \  \ \   __  \ \   _  _\ \  \    0
+  0   \ \  \_\\ \ \  \ \  \    \ \  \ \  \ \  \ \  \\  \\ \  \   1
+  1    \ \_______\ \__\ \__\    \ \__\ \__\ \__\ \__\\ _\\ \__\  0
+  0     \|_______|\|__|\|__|     \|__|\|__|\|__|\|__|\|__|\|__|  1
+  1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+  </code>
+</pre>
+
+## 👨‍💻 About Me
 
 ```python
-class DataAnalystAndAppDeveloper:
+class DataAnalystSoftwareEngineerAndAppDeveloper:
     def __init__(self):
         self.name = "Mert Yandımata"
-        self.roles = ["Data Analyst", "Mobile App Developer"]
+        self.roles = ["Data Analyst", "Software Engineer", "Mobile App Developer"]
         self.languages = ["tr_TR", "en_US", "it_IT"]
         self.current_work = "Production Data Analyst at DAB Pumps"
         self.education = "Master's in Management Engineering, Università degli Studi di Padova"
 
     def say_hi(self):
-        print("Merhaba! Profilime hoş geldiniz. Veri dünyasında keşifler yapalım ve mobil dünyada inovasyon yaratalım!")
+        print("Hello! Welcome to my profile. Let's explore the world of data, craft innovative software, and create cutting-edge mobile apps!")
 
-me = DataAnalystAndAppDeveloper()
+me = DataAnalystSoftwareEngineerAndAppDeveloper()
 me.say_hi()
 ```
 
-## 🚀 Hakkımda
+I'm a multifaceted professional with expertise in data analysis, software engineering, and mobile app development. Currently leveraging data-driven insights to optimize production processes at DAB Pumps, while also pursuing innovative software and mobile app projects.
 
-Merhaba! Ben Mert, veri analizi ve mobil uygulama geliştirme konularında tutkulu bir profesyonelim. DAB Pumps'ta Production Data Analyst olarak çalışıyorum ve aynı zamanda kişisel mobil uygulama projelerim üzerinde çalışıyorum. Veri odaklı karar verme ve kullanıcı dostu mobil uygulamalar geliştirme konularında uzmanım.
-
-## 🛠 Yetenekler ve Teknolojiler
-
-![](https://img.shields.io/badge/Data_Analysis-informational?style=flat&logo=microsoft-excel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Qlik-informational?style=flat&logo=qlik&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Mobile_Development-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-
-## 💼 İş Deneyimi
-
-- 🏭 **Production Data Analyst** at DAB Pumps (Aug 2023 - Present)
-- 🔍 **Process Engineering Specialist** at DAB Pumps (Jan 2023 - Aug 2023)
-- 🚀 **Continuous Improvement Specialist** at DAB Pumps (Aug 2022 - Jan 2023)
-
-## 🎓 Eğitim
-
-- 🎓 Master's in Management Engineering, Università degli Studi di Padova (2021-2024)
-- 🎓 Bachelor's in Industrial Engineering, Yaşar University (2015-2020)
-- 🎓 Bachelor's in Software Engineering (ICT), Yaşar University (2017-2021)
-
-## 📱 Mobil Uygulamalarım
+## 🚀 Skills & Technologies
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+## 💼 Professional Experience
+
+```mermaid
+graph LR
+    A[DAB Pumps] --> B[Production Data Analyst]
+    A --> C[Process Engineering Specialist]
+    A --> D[Continuous Improvement Specialist]
+    E[Software Projects] --> F[Mobile App Development]
+    E --> G[Data Analysis Solutions]
+```
+
+- **Production Data Analyst** at DAB Pumps (2023 - Present)
+- **Process Engineering Specialist** at DAB Pumps (2023)
+- **Continuous Improvement Specialist** at DAB Pumps (2022 - 2023)
+
+## 🎓 Education
+
+- 🏛 **Master's in Management Engineering**
+  Università degli Studi di Padova (2021-2024)
+- 🏭 **Bachelor's in Industrial Engineering**
+  Yaşar University (2015-2020)
+- 💻 **Bachelor's in Software Engineering (ICT)**
+  Yaşar University (2017-2021)
+- 🧠 **Minor in Psychology**
+  Yaşar University (2018-2021)
+
+## 📱 Mobile Applications
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/your-app1"><img src="/api/placeholder/100/100" alt="App 1" width="100" height="100" /></a>
+  <a href="https://apps.apple.com/us/app/your-app2"><img src="/api/placeholder/100/100" alt="App 2" width="100" height="100" /></a>
+  <a href="https://apps.apple.com/us/app/your-app3"><img src="/api/placeholder/100/100" alt="App 3" width="100" height="100" /></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mertyandimata&show_icons=true&theme=radical" alt="Mert's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="/api/placeholder/100/100" alt="App 1" width="100" height="100" />
-  <img src="/api/placeholder/100/100" alt="App 2" width="100" height="100" />
-  <img src="/api/placeholder/100/100" alt="App 3" width="100" height="100" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertyandimata&theme=radical" alt="Mert's GitHub streak" />
 </p>
 
-## 📊 GitHub İstatistiklerim
-
-<a href="https://github.com/mertyandimata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertyandimata&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/mertyandimata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyandimata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mert's GitHub Stats" />
-</a>
-
-## 📫 İletişim
-
-Benimle iletişime geçmekten çekinmeyin! Veri analizi, mobil uygulama geliştirme veya herhangi bir işbirliği fırsatı hakkında konuşmaktan mutluluk duyarım.
+## 📫 Get in Touch
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:myandimata4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mert-yandimata/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/myandimata/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mertyandimata&color=green" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/mertyandimata?label=Followers&style=social" alt="Followers">
-</p>
+<pre align="center">
+  <code>
+  0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1
+  1        Thank you for visiting my GitHub profile!        0
+  0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1
+  </code>
+</pre>
