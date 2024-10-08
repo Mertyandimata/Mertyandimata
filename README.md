@@ -75,7 +75,7 @@ I'm currently working on three exciting new projects:
 
 1. **DiaSync**
    
-   <img src="https://raw.githubusercontent.com/Mertyandimata/diabetappnew/main/assets/logo.png" alt="DiaSync App Icon" width="60" height="60" style="border-radius: 16px;">
+   <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(2).png" alt="DiaSync App Icon" width="60" height="60" style="border-radius: 16px;">
    
    *An AI-powered application for diabetes management*
    
@@ -83,7 +83,7 @@ I'm currently working on three exciting new projects:
 
 2. **Dreamy Whispers**
    
-   <img src="https://raw.githubusercontent.com/Mertyandimata/dreamywhispercode/main/assets/logo.png" alt="Dreamy Whispers App Icon" width="60" height="60">
+   <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(1).png" alt="Dreamy Whispers App Icon" width="60" height="60">
    
    *A soothing white noise application for better sleep and relaxation*
    
@@ -91,13 +91,13 @@ I'm currently working on three exciting new projects:
 
 3. **Dengg**
    
-   <img src="https://raw.githubusercontent.com/Mertyandimata/dengg/main/assets/logo.png" alt="Dengg App Icon" width="60" height="60">
+   <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo.png" alt="Dengg App Icon" width="60" height="60">
    
    *An AI-powered spiritual education and therapy platform*
    
    Dengg is an innovative platform that combines spiritual education with AI-driven voice therapy, offering users a unique and personalized approach to spiritual growth and well-being.
 
-Stay tuned for updates on these upcoming applications!
+Stay tuned for updates on these upcoming applications! 
 
 ---
 
