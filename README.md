@@ -39,7 +39,7 @@ me.say_hi()
 | Company | Position | Duration | Type | Location | Skills |
 |:--------|:---------|:---------|:-----|:---------|:-------|
 | DAB Pumps | Production Data Analyst | Aug 2023 - Present<br>(1 yr 3 mos) | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
-| DAB Pumps | Process Engineering Specialist | Jan 2023 - Aug 2023<br>(8 mos) | Internship | Italy (Hybrid) | Microsoft Excel, SQL, +3 skills |
+| DAB Pumps | Process Engineering Specialist | Jan 2023 - Aug 2023<br>(8 mos) | Internship | Italy (Hybrid) |  Excel VBA , SQL, +3 skills |
 | DAB Pumps | Continuous Improvement Specialist | Aug 2022 - Jan 2023<br>(6 mos) | Internship | Italy (Hybrid) | Agile Methodologies, Scrum, +2 skills |
 | DYO | Industrial Engineer | Sep 2019 - Jul 2020<br>(11 mos) | Part-time | Turkey | Microsoft Excel, C#, +3 skills |
 | Aselsan | Software Engineer | Jun 2019 - Aug 2019<br>(3 mos) | Internship | Turkey | C# |
