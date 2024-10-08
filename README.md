@@ -45,8 +45,7 @@ me.say_hi()
 | Aselsan | Software Engineer | Jun 2019 - Aug 2019<br>(3 mos) | Internship | Turkey | C# |
 | Yaşar Üniversitesi | Student Assistant | Sep 2018 - Feb 2019<br>(6 mos) | Part-time | Izmir, Turkey | Java, Excel VBA, +1 skill |
 
-### 🏭 DYO Project Details
-As part of a team, I developed a decision support system for production planning for a Dyo paint factory. The system was developed using a combination of Excel VBA, Java software and Arena Simulation, and it included a simulation that incorporated stochastic elements, such as machine breakdowns. I was responsible for implementing the Excel VBA, Java and ensuring its accuracy and effectiveness in supporting production planning decisions. This project required me to apply my skills in software development to a real-world problem, resulting in a valuable tool for the factory. My work on this project showcases my ability to use a range of software tools to solve practical problems and my ability to work effectively as part of a team.
+
 
 ## 🎓 Education
 
