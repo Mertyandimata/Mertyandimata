@@ -36,65 +36,18 @@ me.say_hi()
 
 ## 💼 Professional Experience
 
-<details>
-<summary><b>DAB Pumps</b> (2 years 3 months)</summary>
+| Company | Position | Duration | Type | Location | Skills |
+|:--------|:---------|:---------|:-----|:---------|:-------|
+| DAB Pumps | Production Data Analyst | Aug 2023 - Present<br>(1 yr 3 mos) | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
+| DAB Pumps | Process Engineering Specialist | Jan 2023 - Aug 2023<br>(8 mos) | Internship | Italy | Microsoft Excel, SQL, +3 skills |
+| DAB Pumps | Continuous Improvement Specialist | Aug 2022 - Jan 2023<br>(6 mos) | Internship | Italy (Hybrid) | Agile Methodologies, Scrum, +2 skills |
+| DYO | Industrial Engineer | Sep 2019 - Jul 2020<br>(11 mos) | Internship | - | Microsoft Excel, C#, +3 skills |
+| Aselsan | Software Engineer | Jun 2019 - Aug 2019<br>(3 mos) | Internship | - | C# |
+| Yaşar Üniversitesi | Student Assistant | Sep 2018 - Feb 2019<br>(6 mos) | Part-time | Izmir, Turkey | Java, Excel VBA, +1 skill |
 
-### Production Data Analyst
-<img src="https://img.shields.io/badge/Full--time-August%202023%20to%20Present-brightgreen" />
-<img src="https://img.shields.io/badge/Location-Italy%20(Hybrid)-blue" />
+### 🏭 DYO Project Details
+As part of a team, I developed a decision support system for production planning for a Dyo paint factory. The system was developed using a combination of Excel VBA, Java software and Arena Simulation, and it included a simulation that incorporated stochastic elements, such as machine breakdowns. I was responsible for implementing the Excel VBA, Java and ensuring its accuracy and effectiveness in supporting production planning decisions. This project required me to apply my skills in software development to a real-world problem, resulting in a valuable tool for the factory. My work on this project showcases my ability to use a range of software tools to solve practical problems and my ability to work effectively as part of a team.
 
-**Skills:** Data Science, Machine Learning, +4 skills
-
-### Process Engineering Specialist
-<img src="https://img.shields.io/badge/Internship-January%202023%20to%20August%202023-yellow" />
-<img src="https://img.shields.io/badge/Location-Italy-blue" />
-
-**Skills:** Microsoft Excel, SQL, +3 skills
-
-### Continuous Improvement Specialist
-<img src="https://img.shields.io/badge/Internship-August%202022%20to%20January%202023-yellow" />
-<img src="https://img.shields.io/badge/Location-Italy%20(Hybrid)-blue" />
-
-**Skills:** Agile Methodologies, Scrum, +2 skills
-
-</details>
-
-<details>
-<summary><b>DYO</b> (11 months)</summary>
-
-### Industrial Engineer
-<img src="https://img.shields.io/badge/Internship-September%202019%20to%20July%202020-orange" />
-
-**Project:** Decision Support System for Production Planning
-- Developed using Excel VBA, Java, and Arena Simulation
-- Incorporated stochastic elements like machine breakdowns
-- Responsible for implementing Excel VBA and Java components
-- Ensured accuracy and effectiveness in production planning decisions
-
-**Skills:** Microsoft Excel, C#, +3 skills
-
-</details>
-
-<details>
-<summary><b>Aselsan</b> (3 months)</summary>
-
-### Software Engineer
-<img src="https://img.shields.io/badge/Internship-June%202019%20to%20August%202019-orange" />
-
-**Skills:** C#
-
-</details>
-
-<details>
-<summary><b>Yaşar Üniversitesi</b> (6 months)</summary>
-
-### Student Assistant
-<img src="https://img.shields.io/badge/Part--time-September%202018%20to%20February%202019-lightgrey" />
-<img src="https://img.shields.io/badge/Location-Izmir,%20Turkey-blue" />
-
-**Skills:** Java, Excel VBA, +1 skill
-
-</details>
 ## 🎓 Education
 
 | Degree | Institution | Year |
