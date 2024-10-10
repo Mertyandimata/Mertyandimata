@@ -43,13 +43,13 @@ mert.decode_challenge()
 <div align="center">
 
 
-## 💼 Work Experience
+## 💼 Last Active Work 
 
 <div align="center">
 
 | Company | Position | Duration | Type | Location | Skills |
 |:-------:|:--------:|:--------:|:----:|:--------:|:------:|
-| <img src="https://media.licdn.com/dms/image/v2/C560BAQHGsCixn8NMVQ/company-logo_200_200/company-logo_200_200/0/1631302654711?e=1736380800&v=beta&t=UiI4bB7LNS9ZnTakeePPol2HuT4aiuAdYs6NjVKRgv8" width="60" height="60" style="border-radius: 13px;"><br>**DAB Pumps** | Production Data Analyst | Aug 2023 - Present<br>(1 yr 3 mos) | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
+| <img src="https://media.licdn.com/dms/image/v2/C560BAQHGsCixn8NMVQ/company-logo_200_200/company-logo_200_200/0/1631302654711?e=1736380800&v=beta&t=UiI4bB7LNS9ZnTakeePPol2HuT4aiuAdYs6NjVKRgv8" width="60" height="60" style="border-radius: 13px;"><br>**DAB Pumps** | Production Data Analyst | Aug 2021 - Present<br> | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
 
 </div>
 
