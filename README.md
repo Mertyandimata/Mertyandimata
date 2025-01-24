@@ -49,7 +49,7 @@ mert.decode_challenge()
 
 | Company | Position | Duration | Type | Location | Skills |
 |:-------:|:--------:|:--------:|:----:|:--------:|:------:|
-| <img src="[https://media.licdn.com/dms/image/v2/C560BAQHGsCixn8NMVQ/company-logo_200_200/company-logo_200_200/0/1631302654711?e=1736380800&v=beta&t=UiI4bB7LNS9ZnTakeePPol2HuT4aiuAdYs6NjVKRgv8](https://raw.githubusercontent.com/Mertyandimata/logo/refs/heads/main/Ads%C4%B1z%20tasar%C4%B1m%20(5).png)" width="60" height="60" style="border-radius: 13px;"><br>**DAB Pumps** | Production Data Analyst | Aug 2022 - Present<br> | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
+| <img src="https://raw.githubusercontent.com/Mertyandimata/logo/refs/heads/main/Ads%C4%B1z%20tasar%C4%B1m%20(5).png" width="60" height="60" style="border-radius: 13px;"><br>**DAB Pumps** | Production Data Analyst | Aug 2022 - Present<br> | Full-time | Italy (Hybrid) | Data Science, Machine Learning, +4 skills |
 
 </div>
 
