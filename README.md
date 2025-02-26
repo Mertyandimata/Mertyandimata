@@ -78,7 +78,7 @@ mert.decode_challenge()
 |:-------:|:-----------:|
 | <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo.png" alt="Dengg App Icon" width="80" height="80" style="border-radius: 16px;"><br>**🧘 Dengg** | *AI-powered spiritual companion*<br><small>Blending spiritual education with AI voice therapy for holistic well-being</small> |
 | <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/mentai%20(1080%20x%201350%20piksel).png" alt="MentAI App Icon" width="80" height="100" style="border-radius: 16px;"><br>**🧠 MentAI** | *Your personalized AI life coach*<br><small>A bespoke AI assistant to help craft and achieve your ideal life trajectory</small> |
-| <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(1).png" alt="Dreamy Whispers App Icon" width="80" height="80" style="border-radius: 16px;"><br>**🌙 Dreamy Whispers** | *Whisper your way to tranquility*<br><small>A curated symphony of soothing sounds for relaxation and restful sleep</small> |
+
 
 </div>
 
