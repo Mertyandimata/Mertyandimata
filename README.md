@@ -68,19 +68,7 @@ mert.decode_challenge()
 | <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(2).png" alt="DiaSync App Icon" width="80" height="80" style="border-radius: 16px;"><br>**🩺 DiaSync** | *Revolutionizing diabetes care with AI*<br><small>Personalized support and actionable insights for a smoother diabetes management journey</small> |[<img src="https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg" height="40">](https://apps.apple.com/it/app/diasync/id6727016016) |
 
 
-</div>
 
-### Projects in Development
-
-<div align="center">
-
-| Project | Description |
-|:-------:|:-----------:|
-| <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo.png" alt="Dengg App Icon" width="80" height="80" style="border-radius: 16px;"><br>**🧘 Dengg** | *AI-powered spiritual companion*<br><small>Blending spiritual education with AI voice therapy for holistic well-being</small> |
-| <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/mentai%20(1080%20x%201350%20piksel).png" alt="MentAI App Icon" width="80" height="100" style="border-radius: 16px;"><br>**🧠 MentAI** | *Your personalized AI life coach*<br><small>A bespoke AI assistant to help craft and achieve your ideal life trajectory</small> |
-
-
-</div>
 
 <p align="center"><i>Stay tuned for these upcoming digital marvels! Each crafted with passion to enhance different aspects of your life.</i></p>
 
