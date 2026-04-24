@@ -53,26 +53,6 @@ mert.decode_challenge()
 
 </div>
 
-## 📱 My App Portfolio
-
-### Published Apps
-
-<div align="center">
-
-| App | Description | Store |
-|:---:|:-----------:|:-----:|
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/23/4e/b9234e0b-bdbb-c17f-a407-2922589332e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60" style="border-radius: 13px;"><br>**Bacaratour** | 🍷 Private Guide to Italy's Finest Bars<br><small>Sophisticated bar tours and interactive experiences crafted by local experts</small> | [<img src="https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg" height="40">](https://apps.apple.com/tr/app/bacaro/id6741480011?l=tr) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/25/d8/bc25d8a2-9a4a-d925-11e3-78a972c3d4b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60" style="border-radius: 13px;"><br>**Coinquilino** | 🏠 Find Your Perfect Roommate<br><small>Simplifying the hunt for ideal living spaces and companions</small> | [<img src="https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg" height="40">](https://apps.apple.com/tr/app/coinquilino-find-a-roommate/id6450541028) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/46/f2/1d46f26c-c186-ee9f-024a-cca01a2dd6b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp" width="60" height="60" style="border-radius: 13px;"><br>**Secrets Unfold** | 🍻 The Ultimate Drinking Game<br><small>Guaranteed to spice up your gatherings and test friendships</small> | [<img src="https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg" height="40">](https://apps.apple.com/tr/app/secrets-unfold/id6496849051) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/82/7e/53827e16-ed5f-daf0-0170-7e9cd182709d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="60" height="60" style="border-radius: 13px;"><br>**Word Memorizer** | 📚 Personal Italian Tutor<br><small>My custom-built tool for mastering Italian vocabulary</small> | [<img src="https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg" height="40">](https://apps.apple.com/tr/app/word-memorizer/id6450652988) |
-| <img src="https://raw.githubusercontent.com/Mertyandimata/logo/main/logo%20(2).png" alt="DiaSync App Icon" width="80" height="80" style="border-radius: 16px;"><br>**🩺 DiaSync** | *Revolutionizing diabetes care with AI*<br><small>Personalized support and actionable insights for a smoother diabetes management journey</small> |[<img src="https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg" height="40">](https://apps.apple.com/it/app/diasync/id6727016016) |
-
-
-
-
-<p align="center"><i>Stay tuned for these upcoming digital marvels! Each crafted with passion to enhance different aspects of your life.</i></p>
-
-<p align="center">💡 <b>Fun Fact:</b> The average smartphone has 80 apps, but users regularly use only 9. Our goal? To create apps so essential, they'll always be in your top 9!</p>
 
 ## 🎓 Education
 
